@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Where &amp; When
+title: Where & When
 permalink: /where_and_when/
 ---
 
