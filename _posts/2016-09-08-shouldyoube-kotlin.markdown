@@ -9,7 +9,9 @@ Two presentations for the price of one! Note: the price is zero.
 
 A mashup for neurotic residents of Omaha, Nebraska, as seen through twitter and a bunch of geographic APIs and regular expressions.
 
-Live demo at [https://shouldyou.be][shouldyou.be]
+Live demo at [https://shouldyou.be][shouldyou.be], and [source on github](https://github.com/tmcoma/shouldyou.be)
+
+![](https://raw.githubusercontent.com/tmcoma/shouldyou.be/master/docs/images/00-screenshot.png =25%)
 
 Demonstrates usage of the following APIs, platforms, etc.
 
