@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+OJUG: A Place for Those Interested in Java and Development on the JVM to Geek Out
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+We like to talk about Java, Java frameworks and related technologies. This would include things like Android, and other languages that run in the JVM such as Groovy, Scala, Clojure and JRuby. Also, we talk about other issues that affect all developers in enterprise and web development, such as architecture, testing, security, scalability, and front end technologies.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+If you have a topic you would like to hear about or something you would like to talk about please let let us know on the mailing list!
