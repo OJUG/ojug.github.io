@@ -58,7 +58,7 @@ Blue Cross and Blue Shield of Nebraska, 1919 Aksarben Dr, Omaha, NE 68180
 
 ## RSVP
 
-Please RSVP at [Meetup.com][https://www.meetup.com/omahajava/events/234752170/].
+Please RSVP at [Meetup.com](https://www.meetup.com/omahajava/events/234752170/).
 
 Also, in the FREE STUFF department, JetBrains has signed up to be an additional sponsor, and is giving us 1 free IntelliJ IDEA licenses to raffle away EVERY MONTH! So stick around for the drawing at the end of the meeting before we head to DJ's!
 
