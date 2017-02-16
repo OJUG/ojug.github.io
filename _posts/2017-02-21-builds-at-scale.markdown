@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Elegant Builds at Scale"
+title:  "February 21, 2017 Elegant Builds at Scale"
 ---
 
 How can medium and large projects use Gradle to scale their build infrastructure? This session looks at organizations such as Netflix and LinkedIn and how they scale with Gradle across hundreds or thousands of developers. It discusses how to solve the challenges of standardization, fast incremental builds, dependency management, distributed caching, continuous builds, build metrics and working with multiple repositories at the same time.
