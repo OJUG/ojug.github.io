@@ -4,7 +4,7 @@ title:  "March 28, 2017 OJUG and Spring Users Group Co-hosting Josh Long Spring 
 ---
 
 March Madness is here with an extra special meetup. In addition to our regulary schedule March 21st meeting. OJUG is working with the Spring Users Group to co-host a Spring 5 talk from Josh Long! 
-Link to Spring Users Group (https://www.meetup.com/Omaha-Spring-Users-Group/events/237247066/)
+Link to [Spring Users Group](https://www.meetup.com/Omaha-Spring-Users-Group/events/237247066/)
 
 ## Details below.
 
