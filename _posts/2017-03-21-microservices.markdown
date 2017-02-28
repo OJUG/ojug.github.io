@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "March 28, 2017 OJUG and Spring Users Group Co-hosting Josh Long Spring 5 talk"
+title:  "March 21, 2017 Lets talk about Microservices"
 ---
 
 6:00pm - Networking and Food 
