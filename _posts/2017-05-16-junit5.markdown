@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "May 16, 2017 Turning jUnit up to 5!"
+---
+
+* 6:00pm - Networking and Food 
+* 6:30pm-  presentation
