@@ -1,2 +1,1 @@
-# Source for OJUG.org blog
-
+# Source for OJUG.org website
