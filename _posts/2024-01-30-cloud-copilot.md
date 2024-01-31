@@ -19,7 +19,7 @@ Jetbrains IntelliJ license raffle after the talk!
 
 DevObsessed, 11425 Davenport St, Omaha, NE 68154
 
-https://goo.gl/maps/kYm1RyBg18x5bd5u7
+[https://goo.gl/maps/kYm1RyBg18x5bd5u7](https://goo.gl/maps/kYm1RyBg18x5bd5u7)
 
 **Sponsors:**
 
