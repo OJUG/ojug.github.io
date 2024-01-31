@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "July 17, 2018 "So, who's gonna tell 'em?" the talk about 'the talk' that nobody talks about."
+title:  "July 17, 2018 \"So, who's gonna tell 'em?\" the talk about 'the talk' that nobody talks about."
 ---
 
 6-6:30 networking and food
