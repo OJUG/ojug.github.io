@@ -4,7 +4,7 @@ title: Welcome
 permalink: /welcome/
 ---
 
-Join us on our Meetup.com group for RSVPs and meeting announcments! [https://www.meetup.com/omahajava/](https://www.meetup.com/omahajava/)
+Join us on our Luma group for RSVPs and meeting announcments! [https://lu.ma/omahajava](https://lu.ma/omahajava)
 
 We are very grateful to all of our sponsors.
 
