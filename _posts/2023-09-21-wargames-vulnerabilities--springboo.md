@@ -27,7 +27,7 @@ We will also briefly examine some of the changes planned for Jakarta EE 11 that 
 
 **Wargames Speaker:**
 
-**Gerrit Grunwald** is a software engineer that loves coding for around 40 years already. He is a true believer in open source and has participated in popular projects like [JFXtras.org](http://jfxtras.org) as well as his own projects (TilesFX, Medusa, Enzo, SteelSeries Swing, SteelSeries Canvas, JDKMon).
+**Gerrit Grunwald** is a software engineer that loves coding for around 40 years already. He is a true believer in open source and has participated in popular projects like [JFXtras.org](JFXtras.org) as well as his own projects (TilesFX, Medusa, Enzo, SteelSeries Swing, SteelSeries Canvas, JDKMon).
 
 Gerrit blogs regularly at [http://harmonic-code.org](http://harmonic-code.org), he is an active member of the Java community, where he founded and leads the Java User Group Münster (Germany), he is a JavaOne rockstar and a Java Champion. He is a speaker at conferences and user groups internationally and writes for several magazines.
 
@@ -66,4 +66,4 @@ Thank you to [Jetbrains](https://www.jetbrains.com/idea/) for sponsoring by prov
 Additionally, if your group is interested in sponsoring or speaking at OJUG, please reach out for opportunities!
 
 (This past event was exported from Meetup.com)
-(28 people had RSVP'd to this event in Meetup)
+(27 people had RSVP'd to this event in Meetup)
